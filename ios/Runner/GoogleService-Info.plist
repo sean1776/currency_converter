@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>140622033884-cpbi7nd8md9ah67ln0vc8o717duek426.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.140622033884-cpbi7nd8md9ah67ln0vc8o717duek426</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1NDrCbsITl8vguzYFngOMayjtRE-d9GQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>140622033884</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.applife.currencyConverter</string>
+	<key>PROJECT_ID</key>
+	<string>currency-converter-cd2ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>currency-converter-cd2ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:140622033884:ios:46c2a19a7a1d86d6</string>
+	<key>DATABASE_URL</key>
+	<string>https://currency-converter-cd2ee.firebaseio.com</string>
+</dict>
+</plist>
